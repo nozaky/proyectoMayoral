@@ -1,0 +1,15 @@
+{
+  "ideaRegalo": {
+    "nombre": "IDEAS DE REAGLO",
+    "hasta50": "Hasta 50€"
+  },
+  "coleccion": {
+    "nombre": "Colección",
+    "ideaRegalo": "IDEAS DE REGALO",
+    "nuevo": "NUEVO"
+  },
+  "sastreria": {
+    "nombre": "Sastrería",
+    "corbatas": "Corbatas"
+  }
+}
