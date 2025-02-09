@@ -1,5 +1,5 @@
 export class PrincipalElements {
-  static readonly acceptCookiesButton = "//*[@name='saveCookiesPlusPreferences']//span[text()='Aceptar cookies']";
+  static readonly acceptCookiesButton = "(//*[@name='saveCookiesPlusPreferences']//span[text()='Aceptar cookies'])[last()]";
   static readonly loginIcon = '[class*=mobile-btn-account]';
   static readonly menuButton = '[class*="btn-menu"]';
   static optionMenuButton(apartado: string) {
